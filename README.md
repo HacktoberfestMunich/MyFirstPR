@@ -7,5 +7,6 @@ Participants:
 
 Alexander K
 Tobias Schaffner
+Marco Knaus (AlliPorr)
 Felix Kröner
 Wolfram
