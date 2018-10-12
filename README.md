@@ -5,6 +5,7 @@ Hacktoberfest 2018s meetup in Munich how to create their first pull request.
 
 Participants:
 
+Alexander K
 Tobias Schaffner
 Felix Kröner
 Wolfram
